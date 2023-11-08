@@ -71,7 +71,7 @@ Aqui é um exemplo de marcação em rodapé [^1]
 
 
 Alertas
->***Note***
+> ***Note***
 >Esta é uma nota
 
 
