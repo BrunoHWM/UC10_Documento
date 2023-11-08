@@ -1,1 +1,36 @@
-Titulo#
+#Titulo
+#sub
+
+listas não sequenciasis
+(+,-,*)
+listas sequenciais 
+1.
+2.
+3
+
+
+
+
+
+
+
+
+
+[Link](https://github.com/BrunoHWM/UC10_Documento/edit/main/README.md)
+
+![imagem](url)
+
+Enfase:
+
+Itálico -> *texto em Italico* ou _texto em italico_
+Negrito -> **texto em negrito** ou __texto em negrito__
+Tachado -> ~~~texto tachado~~~
+Subscrito -> <sub> subscrito </sub>
+sobrescrito -> <sup> subscrito </sup>
+
+
+> Citação em bloco.
+
+
+
+
