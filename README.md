@@ -36,8 +36,8 @@ sobrescrito -> <sup> subscrito </sup>
 
 use (---) ou (***)
 para criar uma linha horizontal 
----
 
+----
 
 
 use crase (`) para adicionar código em linha 
