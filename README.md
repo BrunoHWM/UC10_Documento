@@ -53,6 +53,17 @@ Tabela
 | dado 2      | dado 2      |
 
 
+Lista de tárefas :
+
+Use - [] para criar uma lista de tarefas não marcada 
+use - [x] para criar uma lista de tarefas marcada marcada 
+
+Exemplo:
+-[x] tárefa concluida
+-[]  Tarefa pendente
+
+
+
 
 
 
