@@ -24,7 +24,7 @@ Enfase:
 
 Itálico -> *texto em Italico* ou _texto em italico_
 Negrito -> **texto em negrito** ou __texto em negrito__
-Tachado -> ~~~texto tachado~~~
+Tachado -> ~~texto tachado~~
 Subscrito -> <sub> subscrito </sub>
 sobrescrito -> <sup> subscrito </sup>
 
@@ -42,6 +42,18 @@ use crase (´) para adicionar código em linha
 use três crases (´´´) para criar blocos de códigos
 use crase (\´) para inserir código inline
 ´print("Mostrar mensagem")´
+
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|------------ |------------ |
+| dado 1      | dado 1      |
+| dado 2      | dado 2      |
+
+
+
+
+
+
 
 
 
