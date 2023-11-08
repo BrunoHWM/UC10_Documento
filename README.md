@@ -1,8 +1,6 @@
 #Titulo
 ##subititulo
 
----
-
 listas não sequenciasis (+,-,*).
 *item 1
 *item 2
@@ -12,7 +10,7 @@ listas sequenciais
 1.item 1
 2.item 2
 3.item 3
----
+
 
 
 
