@@ -1,7 +1,7 @@
 #Titulo
 ##subititulo
 
-lista não sequenciais.
+lista não sequenciais
 -item 1
 -item 2
 -item 3
