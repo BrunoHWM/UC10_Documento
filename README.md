@@ -38,10 +38,16 @@ para criar uma linha horizontal
 
 
 
-use crase (´) para adicionar código em linha 
-use três crases (´´´) para criar blocos de códigos
-use crase (\´) para inserir código inline
-´print("Mostrar mensagem")´
+use crase (`) para adicionar código em linha 
+use três crases (```) para criar blocos de códigos
+use crase (\`) para inserir código inline
+`print("Mostrar mensagem")`
+
+```
+idade = 18
+print ("Mensagem")
+
+```
 
 
 
