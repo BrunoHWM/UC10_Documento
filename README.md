@@ -1,7 +1,7 @@
 #Titulo
 ##subititulo
 
-listas não sequenciasis (+,-,*).
+listas não sequenciais.
 *item 1
 *item 2
 *item 3
