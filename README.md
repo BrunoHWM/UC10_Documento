@@ -21,9 +21,13 @@ Links:
 
 Enfase:
 Itálico -> *texto em Italico* ou _texto em italico_
+
 Negrito -> **texto em negrito** ou __texto em negrito__
+
 Tachado -> ~~texto tachado~~
+
 Subscrito -> <sub> subscrito </sub>
+
 sobrescrito -> <sup> subscrito </sup>
 
 
