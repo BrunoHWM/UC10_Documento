@@ -2,9 +2,9 @@
 ##subititulo
 
 listas não sequenciais.
-*item 1
-*item 2
-*item 3
+-item 1
+-item 2
+-item 3
 
 listas sequenciais 
 1.item 1
@@ -65,9 +65,6 @@ Exemplo:
 
 A qui é um exemplo de marcação em rodapé [^1]
 [^1]: Rodapé: conteudo inferior do documento
-
-
-ok
 
 
 
