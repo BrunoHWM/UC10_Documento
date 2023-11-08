@@ -11,14 +11,6 @@ listas sequenciais
 2.item 2
 3.item 3
 
-
-
-
-
-
-
-
-
 [Link](https://github.com/BrunoHWM/UC10_Documento/edit/main/README.md)
 
 ![imagem](url)
