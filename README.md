@@ -55,12 +55,12 @@ Tabela
 
 Lista de tárefas :
 
-Use - [] para criar uma lista de tarefas não marcada 
+Use - [ ] para criar uma lista de tarefas não marcada 
 use - [x] para criar uma lista de tarefas marcada marcada 
 
 Exemplo:
--[x] tárefa concluida
--[]  Tarefa pendente
+[x] tárefa concluida
+[ ]  Tarefa pendente
 
 
 [^1]: Rodapé: conteudo inferior do documento
