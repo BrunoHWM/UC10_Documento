@@ -1,5 +1,5 @@
-#Titulo
-##subititulo
+Titulo#
+Subititulo##
 
 lista não sequenciais
 
@@ -70,7 +70,7 @@ Aqui é um exemplo de marcação em rodapé [^1]
 [^1]: Rodapé: conteudo inferior do documento
 
 
-Alertas
+
 > ***Note***
 >Esta é uma nota
 
