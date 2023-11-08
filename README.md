@@ -14,7 +14,7 @@ lista sequenciais
 3. item 3
 
 Links:
-[Link](https://github.com/BrunoHWM/UC10_Documento/edit/main/README.md)
+[Link](https://github.com/BrunoHWM/UC10_Documento/blob/main/pagina.md)
 
 ![imagem](https://github.com/BrunoHWM/UC10_Documento/blob/main/patoazul.png)
 
