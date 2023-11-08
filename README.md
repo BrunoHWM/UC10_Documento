@@ -62,7 +62,7 @@ Exemplo:
 [x] tárefa concluida
 [ ]  Tarefa pendente
 
-
+A qui é um exemplo de marcação em rodapé [^1]
 [^1]: Rodapé: conteudo inferior do documento
 
 
