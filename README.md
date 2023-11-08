@@ -1,6 +1,7 @@
 #Titulo
 ##subititulo
 
+listas :
 lista não sequenciais.
 -item 1
 -item 2
@@ -15,14 +16,14 @@ lista sequenciais
 
 ![imagem](https://github.com/BrunoHWM/UC10_Documento/blob/main/patoazul.png)
 
+---
 Enfase:
-
 Itálico -> *texto em Italico* ou _texto em italico_
 Negrito -> **texto em negrito** ou __texto em negrito__
 Tachado -> ~~texto tachado~~
 Subscrito -> <sub> subscrito </sub>
 sobrescrito -> <sup> subscrito </sup>
-
+---
 
 > Citação em bloco.
 
