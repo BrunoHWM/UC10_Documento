@@ -13,7 +13,7 @@ listas sequenciais
 
 [Link](https://github.com/BrunoHWM/UC10_Documento/edit/main/README.md)
 
-![imagem](https://github.com/BrunoHWM/UC10_Documento/commit/5ab4ab2c57308530f929c1c914397564510297ae)
+![imagem](https://github.com/BrunoHWM/UC10_Documento/blob/main/patoazul.png)
 
 Enfase:
 
