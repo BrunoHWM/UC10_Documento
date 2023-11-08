@@ -1,13 +1,20 @@
 #Titulo
-#sub
+##subititulo
 
+---
+##Para listas 
 listas não sequenciasis
 (+,-,*)
-listas sequenciais 
-1.
-2.
-3
+Exemplos;:
+*item 1
+-item 2
++item 3
 
+listas sequenciais 
+1.item 1
+2.item 2
+3.item 3
+---
 
 
 
