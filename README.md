@@ -32,5 +32,17 @@ sobrescrito -> <sup> subscrito </sup>
 > Citação em bloco.
 
 
+use (---) ou (***)
+para criar uma linha horizontal 
+---
+
+
+
+use crase (´) para adicionar código em linha 
+use três crases (´´´) para criar blocos de códigos
+use crase (\´) para inserir código inline
+´print("Mostrar mensagem")´
+
+
 
 
