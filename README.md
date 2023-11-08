@@ -62,16 +62,11 @@ Exemplo:
 -[x] tárefa concluida
 -[]  Tarefa pendente
 
-Referência:
-[Página 2 da documentação](pagina.md)
+
+[^1]: Rodapé: conteudo inferior do documento
 
 
-Notas de rodapé
-
-Aqui é um exemplo de rodapé
-[^1]: rodapé: conteudo inferior 
-
-
+ok
 
 
 
