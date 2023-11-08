@@ -63,10 +63,10 @@ Use - [ ] para criar uma lista de tarefas não marcada
 use - [x] para criar uma lista de tarefas marcada marcada 
 
 Exemplo:
-[x] tárefa concluida
-[ ]  Tarefa pendente
+[x] Tárefa concluida
+[ ] Tárefa pendente
 
-A qui é um exemplo de marcação em rodapé [^1]
+Aqui é um exemplo de marcação em rodapé [^1]
 [^1]: Rodapé: conteudo inferior do documento
 
 
