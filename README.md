@@ -44,10 +44,18 @@ use crase (\´) para inserir código inline
 ´print("Mostrar mensagem")´
 
 
+
+Tabela
+
 | Cabeçalho 1 | Cabeçalho 2 |
 |------------ |------------ |
 | dado 1      | dado 1      |
 | dado 2      | dado 2      |
+
+
+
+
+
 
 
 
