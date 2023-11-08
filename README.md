@@ -9,9 +9,9 @@ lista não sequenciais
 
 lista sequenciais
 
-1.item 1
-2.item 2
-3.item 3
+1. item 1
+2. item 2
+3. item 3
 
 Links:
 [Link](https://github.com/BrunoHWM/UC10_Documento/edit/main/README.md)
@@ -70,7 +70,20 @@ A qui é um exemplo de marcação em rodapé [^1]
 [^1]: Rodapé: conteudo inferior do documento
 
 
+Alertas
+>***Note***
+>Esta é uma nota
 
+
+>[!NOTE]
+>Destacar informações em que o usuario deve levar em consideração.
+
+>[!IMPORTANt]
+>Informação cruciais nessesaria para o sucesso so usuario.
+
+
+>[!WARNING]
+>Conteudo cirtico que precisa de atenção.
 
 
 
