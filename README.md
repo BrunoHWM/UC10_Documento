@@ -2,7 +2,7 @@
 ##subititulo
 
 ---
-##Para listas 
+
 listas não sequenciasis (+,-,*).
 *item 1
 *item 2
